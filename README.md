@@ -3,7 +3,7 @@
 This is a basic movie recommendation system using Python and pandas. It provides movie recommendations based on correlation(similarity). 
 
 ## How to run
-- Download the repository on your local machine and then run the following command -
+- Clone the repository on your local machine and then run the following command -
 ```jupyter notebook```
 
 - After opening, click on ```Movie_Recommendations.ipynb```  
